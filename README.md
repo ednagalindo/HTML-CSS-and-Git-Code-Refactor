@@ -1,7 +1,6 @@
 # Refactor Horiseon Website 
 
-Edited HTML and CSS file by adding semantic HTML element, and images have alt attributes for accessibility, reordered CSS selectors in CSS file for readability and refactored CSS file. 
-
+Edited HTML and CSS file by adding semantic HTML elements. Images have alt attributes for accessibility, also reordered CSS selectors in CSS file for readability and refactored CSS file. 
 
 
 ### User Story
